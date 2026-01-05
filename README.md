@@ -64,12 +64,6 @@ This approach provided a clearer view of overall business performance across tim
 
 ---
 
-## Feature Scaling
-- Min-Max normalization was applied to numerical features such as quantity, price per unit, and total spent
-- Normalization prepares the dataset for potential downstream modeling and fair feature comparison
-
----
-
 ## Key Insights
 - The dataset required significant cleaning before analysis, reflecting common real-world data issues
 - A small number of items contributed disproportionately to total revenue
