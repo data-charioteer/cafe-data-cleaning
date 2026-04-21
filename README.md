@@ -38,7 +38,7 @@ The following steps were performed to prepare the data for analysis:
 - Replaced invalid values such as `"ERROR"` and `"UNKNOWN"` with missing values
 - Converted numeric columns from text to numerical data types
 - Parsed transaction dates into datetime format
-- Removed rows missing critical information (date, item, quantity, price)
+- Removed rows missing critical information(date, item, quantity, price)
 
 After cleaning, the dataset was reduced to a high-quality subset suitable for analysis.
 
