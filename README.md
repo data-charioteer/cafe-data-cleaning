@@ -22,7 +22,7 @@ The raw data included missing values, invalid entries, and inconsistent data typ
 
 ---
 
-## Tools & Technologies Used
+## Tools and Technologies Used
 - Python
 - Pandas
 - NumPy
