@@ -58,7 +58,7 @@ These steps helped highlight which items drive the majority of sales.
 To understand sales trends over time:
 - Daily sales trends were analyzed to observe short-term fluctuations
 - Monthly sales aggregation was performed to identify long-term patterns
-- A 3-month rolling average was calculated to smooth volatility and reveal underlying trends
+- A 3 month rolling average was calculated to smooth volatility and reveal underlying trends
 
 This approach provided a clearer view of overall business performance across time.
 
