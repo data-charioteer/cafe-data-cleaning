@@ -1,7 +1,7 @@
 # Cafe Sales Data Analysis
 
 ## Project Overview
-This project focuses on cleaning, exploring, and analyzing a cafe’s transaction-level sales data to uncover key business insights. The analysis follows a complete end-to-end data analytics workflow, including data cleaning, exploratory data analysis(EDA), time-series analysis, and feature normalization.
+This project focuses on cleaning, exploring, and analyzing a cafe’s transaction-level sales data to uncover key business insights. The analysis follows a complete end-to-end data analytics workflow, including data cleaning, exploratory data analysis (EDA), time-series analysis, and feature normalization.
 
 The goal of this project is to practice and demonstrate core data analysis skills using Python and common data analysis libraries.
 
