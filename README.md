@@ -28,7 +28,7 @@ The raw data included missing values, invalid entries, and inconsistent data typ
 - NumPy
 - Matplotlib
 - Jupyter Notebook
-- Git & GitHub
+- Git and GitHub
 
 ---
 
